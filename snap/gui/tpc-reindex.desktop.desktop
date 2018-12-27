@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=3.0.0
+Encoding=UTF-8
+Name=Tpc Qt (reindex)
+Icon=${SNAP}/tpc128.png
+MimeType=x-scheme-handler/tpc;
+Exec=tpc %u --reindex
+Terminal=false
+Categories=Office;Finance;Cryptocurrency;
+Comment=🗺️Tpc Digital Currency QT (reindex main net) 👯👯 👛 (by 🐼CEVAP🐼) CE source code (Community Edition)
+Keywords=internet;tpc;main;qt;crypto;currency;snap;snapcraft;reindex;
+Name[de_DE]=tpc-reindex.desktop.desktop

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tpc-Qt Testnet
+Comment=Tpc P2P gaming related cryptocurrency - TESTNETWORK
+Comment[fr]=Tpc testnet, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tpc testnet, eşten eşe kriptografik sanal para birimi
+Exec=tpc-qt --testnet %u
+Terminal=false
+Type=Application
+Icon=tpc128-testnet
+MimeType=x-scheme-handler/tpc;
+Categories=Office;Finance;

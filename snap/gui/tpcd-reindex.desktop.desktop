@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=3.0.0
+Encoding=UTF-8
+Name=Tpc Daemon (reindex)
+Icon=${SNAP}/tpcd128.png
+MimeType=x-scheme-handler/tpc;
+Exec=tpcd %u --reindex
+Terminal=true
+Categories=Office;Finance;Cryptocurrency;
+Comment=🗺️Tpc Digital Currency Daemon (reindex) 👯👯 👛 (by 🐼CEVAP🐼) CE source code (Community Edition)
+Keywords=internet;tpc;main;daemon;server;crypto;currency;snap;snapcraft;
+Name[de_DE]=tpcd-reindex.desktop.desktop

@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=3.0.0
+Encoding=UTF-8
+Name=Tpc Qt (Testnet) (resync)
+Icon=${SNAP}/tpc128testnet.png
+MimeType=x-scheme-handler/tpc;
+Exec=tpc %u --testnet --resync
+Terminal=false
+Categories=Office;Finance;Cryptocurrency;
+Comment=🗺️Tpc Digital Currency QT (Testnet) (resync) 👯👯 👛 (by 🐼CEVAP🐼) CE source code (Community Edition)
+Keywords=internet;tpc;testnet;qt;crypto;currency;snap;snapcraft;resync;
+Name[de_DE]=tpc-testnet-resync.desktop.desktop

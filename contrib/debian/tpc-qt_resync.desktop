@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tpc-Qt (Resync)
+Comment=Tpc P2P gaming related cryptocurrency
+Comment[fr]=Tpc, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tpc, eşten eşe kriptografik sanal para birimi
+Exec=tpc-qt --resync %u
+Terminal=false
+Type=Application
+Icon=tpc128
+MimeType=x-scheme-handler/tpc;
+Categories=Office;Finance;

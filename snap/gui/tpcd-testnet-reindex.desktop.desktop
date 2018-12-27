@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=3.0.0
+Encoding=UTF-8
+Name=Tpc Daemon Testnet (reindex)
+Icon=${SNAP}/tpcd128testnet.png
+MimeType=x-scheme-handler/tpc;
+Exec=tpcd %u --testnet --reindex
+Terminal=true
+Categories=Office;Finance;Cryptocurrency;
+Comment=🗺️Tpc Digital Currency Testnet Daemon (reindex) 👯👯 👛 (by 🐼CEVAP🐼) CE source code (Community Edition)
+Keywords=internet;tpc;testnet;daemon;server;crypto;currency;snap;snapcraft;reindex;
+Name[de_DE]=tpcd-testnet-reindex.desktop.desktop

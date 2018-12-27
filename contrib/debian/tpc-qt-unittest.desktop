@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tpc-Qt Unit test
+Comment=Tpc P2P gaming related cryptocurrency - UNITTEST
+Comment[fr]=Tpc unittest, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Tpc unittest, eşten eşe kriptografik sanal para birimi
+Exec=tpc-qt --unittest %u
+Terminal=false
+Type=Application
+Icon=tpc128-unittest
+MimeType=x-scheme-handler/tpc;
+Categories=Office;Finance;
